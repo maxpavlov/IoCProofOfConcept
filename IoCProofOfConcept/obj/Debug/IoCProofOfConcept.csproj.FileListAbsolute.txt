@@ -1,0 +1,8 @@
+c:\users\max\documents\visual studio 2015\Projects\IoCProofOfConcept\IoCProofOfConcept\bin\Debug\IoCProofOfConcept.exe.config
+C:\Users\Max\documents\visual studio 2015\Projects\IoCProofOfConcept\IoCProofOfConcept\bin\Debug\IoCProofOfConcept.exe
+C:\Users\Max\documents\visual studio 2015\Projects\IoCProofOfConcept\IoCProofOfConcept\bin\Debug\IoCProofOfConcept.pdb
+C:\Users\Max\documents\visual studio 2015\Projects\IoCProofOfConcept\IoCProofOfConcept\bin\Debug\Ninject.dll
+C:\Users\Max\documents\visual studio 2015\Projects\IoCProofOfConcept\IoCProofOfConcept\bin\Debug\Ninject.xml
+C:\Users\Max\documents\visual studio 2015\Projects\IoCProofOfConcept\IoCProofOfConcept\obj\Debug\IoCProofOfConcept.csprojResolveAssemblyReference.cache
+C:\Users\Max\documents\visual studio 2015\Projects\IoCProofOfConcept\IoCProofOfConcept\obj\Debug\IoCProofOfConcept.exe
+C:\Users\Max\documents\visual studio 2015\Projects\IoCProofOfConcept\IoCProofOfConcept\obj\Debug\IoCProofOfConcept.pdb
